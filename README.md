@@ -1,6 +1,6 @@
 # 信徒生活須知｜線上練習
 
-GitHub Pages 可直接使用的純前端題庫網站。
+[GitHub Pages 可直接使用的純前端題庫網站。](https://hanafeng2021.github.io/tjc-life-quiz/)
 
 ## 使用方式
 1. 將本資料夾全部檔案上傳到 GitHub repository 根目錄。
