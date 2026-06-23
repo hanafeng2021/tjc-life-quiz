@@ -1,6 +1,6 @@
 # 信徒生活須知｜線上練習
 
-[GitHub Pages 可直接使用的純前端題庫網站。](https://hanafeng2021.github.io/tjc-life-quiz/)
+GitHub Pages 可直接使用的純前端題庫網站。
 
 ## 使用方式
 1. 將本資料夾全部檔案上傳到 GitHub repository 根目錄。
@@ -15,3 +15,8 @@
 - questions.json：題庫資料
 
 題庫依《信徒生活須知》整理，實際教導請以教會正式文件為準。
+
+
+## v3 更新
+- 移除『下列哪一個主題與這句說明最相關』這類分類式題目。
+- 目前題數：511 題。
